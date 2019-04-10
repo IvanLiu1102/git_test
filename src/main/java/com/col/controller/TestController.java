@@ -8,9 +8,7 @@ import org.apache.logging.log4j.util.StackLocatorUtil;
 public class TestController {
 
     public static void main(String[] args) {
+        System.out.println("0410 09:03修改");
         System.out.println("aaaaaaaaaaaaaaaaa");
-        System.out.println("bbbbbbbbbbbbbbbbb");
-        System.out.println("ccccccccccccccccc");
-        System.out.println("ddddddddddddddddd");
     }
 }
