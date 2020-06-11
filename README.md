@@ -1,6 +1,4 @@
 # git_test
 
-测试
 
-
-22
+test stash
